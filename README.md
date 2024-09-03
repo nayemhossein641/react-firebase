@@ -1,2 +1,3 @@
 # react-firebase
-first website checking and hosting
+first website for github
+
